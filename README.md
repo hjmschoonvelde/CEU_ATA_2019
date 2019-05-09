@@ -27,7 +27,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | Date        | Link           | Answers           |    
 | ------------- |:-------------:|:-------------:|
 | May  6   | Introduction |  |
-| May  7   | [Script](Code_Practice/String_Operations.pdf) |  |
+| May  7   | [Script](Code_Practice/String_Operations.pdf) | [Exercise solution](Solutions/String_Operations_Answer.pdf) |
 | May  8   | [Script](Code_Practice/Data_to_DFM.pdf), [Data](Data/speeches_uk.csv.zip) |  |
 | May  9   | [Script](Code_Practice/Describing_Text.pdf), [Data](Data/speeches_uk.csv.zip)|  |
 | May  10   | [Script](), [Data]() |  |
