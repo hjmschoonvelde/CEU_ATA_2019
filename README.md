@@ -24,7 +24,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 
 
 ## Code practice
-| Date        | Link           | Answers           |    
+| Date        | Link           | Solutions           |    
 | ------------- |:-------------:|:-------------:|
 | May  6   | Introduction |  |
 | May  7   | [Script](Code_Practice/String_Operations.pdf) | [Exercise solution](Solutions/String_Operations_Answer.pdf) |
