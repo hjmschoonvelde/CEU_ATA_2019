@@ -8,9 +8,9 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 
 ## Assignments
 
-| Date        | Link           |   |
+| Date        | Link           | Answers  |
 | ------------- |:-------------:|  -------------:|
-| May  10, 19:00h   | [Assignment 1](Assignments/Assignment_1.zip) |
+| May  10, 19:00h   | [Assignment 1](Assignments/Assignment_1.zip) | |
 | May  15, 13:00h   | [Assignment 2]() | |
 
 ## Slides
@@ -24,18 +24,18 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 
 
 ## Code practice
-| Date        | Link           |
-| ------------- |:-------------:|
-| May  6   | Introduction |
-| May  7   | [Script](Code_Practice/String_Operations.pdf) |
-| May  8   | [Script](Code_Practice/Data_to_DFM.pdf), [Data](Data/speeches_uk.csv.zip)| 
-| May  9   | [Script](), [Data]()|
-| May  10   | [Script](), [Data]()|
-| May  13   | [Script](), [Data]()|
-| May  14   | [Script](), [Data]()|
-| May  15   |  Applications |
-| May  16   | Conclusion |
-| May  17  | Presentations |
+| Date        | Link           | Answers           |    
+| ------------- |:-------------:|:-------------:|
+| May  6   | Introduction |  |
+| May  7   | [Script](Code_Practice/String_Operations.pdf) |  |
+| May  8   | [Script](Code_Practice/Data_to_DFM.pdf), [Data](Data/speeches_uk.csv.zip) |  |
+| May  9   | [Script](Code_Practice/Describing_Text.pdf), [Data](Data/speeches_uk.csv.zip)|  |
+| May  10   | [Script](), [Data]() |  |
+| May  13   | [Script](), [Data]()|  |
+| May  14   | [Script](), [Data]() | |
+| May  15   |  Applications  |
+| May  16   | Conclusion  |
+| May  17  | Presentations | |
 
 ### Acknowledgements
 
