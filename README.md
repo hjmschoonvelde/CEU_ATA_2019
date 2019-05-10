@@ -30,7 +30,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | May  7   | [Script](Code_Practice/String_Operations.pdf) | [Exercise solution](Solutions/String_Operations_Answer.pdf) |
 | May  8   | [Script](Code_Practice/Data_to_DFM.pdf), [Data](Data/speeches_uk.csv.zip) |  [Exercise solution](Solutions/Data_to_DFM_Answer.pdf) |
 | May  9   | [Script](Code_Practice/Describing_Text.pdf), [Data](Data/speeches_uk.csv.zip)|  |
-| May  10   | [Script](), [Data]() |  |
+| May  10   | [Script](Code_Practice/Dictionaries_and_Supervised_ML.pdf), [Data](Data/speeches_uk.csv.zip)|  |
 | May  13   | [Script](), [Data]()|  |
 | May  14   | [Script](), [Data]() | |
 | May  15   |  Applications  |
