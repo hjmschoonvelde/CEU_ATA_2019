@@ -16,7 +16,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 ## Slides
 | Date        | Slides           |  Date        | Slides           |
 | ------------- |:-------------:| ------------- |:-------------:|
-| May  6   | [Link](Slides/Slides_May_6.pdf) | May  13   | [Link]() |
+| May  6   | [Link](Slides/Slides_May_6.pdf) | May  13   | [Link](Slides/Slides_May_13.pdf)|
 | May  7   | [Link](Slides/Slides_May_7.pdf) | May  14   | [Link]()|
 | May  8   | [Link](Slides/Slides_May_8.pdf) | May  15   | [Link]()|
 | May  9   | [Link](Slides/Slides_May_9.pdf)  | May  16   | [Link]()|
@@ -31,7 +31,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | May  8   | [Script](Code_Practice/Data_to_DFM.pdf), [Data](Data/speeches_uk.csv.zip) |  [Exercise solution](Solutions/Data_to_DFM_Answer.pdf) |
 | May  9   | [Script](Code_Practice/Describing_Text.pdf), [Data](Data/speeches_uk.csv.zip)|  |
 | May  10   | [Script](Code_Practice/Dictionaries_and_Supervised_ML.pdf), [Data](Data/speeches_uk.csv.zip)|  |
-| May  13   | [Script](), [Data]()|  |
+| May  13   | [Script](Code_Practice/Scaling.pdf), [Data](Data/speeches_ep.csv.zip)|  |
 | May  14   | [Script](), [Data]() | |
 | May  15   |  Applications  |
 | May  16   | Conclusion  |
