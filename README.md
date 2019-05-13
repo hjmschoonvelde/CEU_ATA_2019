@@ -10,7 +10,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 
 | Date        | Link           | Answers  |
 | ------------- |:-------------:|  -------------:|
-| May  10, 19:00h   | [Assignment 1](Assignments/Assignment_1.zip) | |
+| May  10, 19:00h   | [Assignment 1](Assignments/Assignment_1.zip) | [Solutions](Solutions/String_Operations_Answer.pdf) |
 | May  15, 13:00h   | [Assignment 2]() | |
 
 ## Slides
