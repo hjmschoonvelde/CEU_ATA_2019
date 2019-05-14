@@ -32,9 +32,9 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | May  9   | [Script](Code_Practice/Describing_Text.pdf), [Data](Data/speeches_uk.csv.zip)|  |
 | May  10   | [Script](Code_Practice/Dictionaries_and_Supervised_ML.pdf), [Data](Data/speeches_uk.csv.zip)|  |
 | May  13   | [Script](Code_Practice/Scaling.pdf), [Data](Data/speeches_ep.csv.zip)|  |
-| May  14   | [Script](), [Data]() | |
-| May  15   |  Applications  |
-| May  16   | Conclusion  |
+| May  14   | [Script](Code_Practice/Topic_Models.pdf), [Data](Data/speeches_ep.csv.zip)|  |
+| May  15   |  New data  |
+| May  16   | New approaches  |
 | May  17  | Presentations | |
 
 ### Acknowledgements
