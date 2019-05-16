@@ -41,7 +41,7 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 
 | Name        | Link           | 
 | ------------- |:-------------:|
-| Alfredo Sanchez   | [Script](Flash_Talks/Alfredo_Sanchez.pdf) |  
+| Alfredo Sanchez   | [Link](Flash_Talks/Alfredo_Sanchez.pdf) |  
 | Manna Toth   |  |  
 
 ### Acknowledgements
