@@ -37,6 +37,13 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 | May  16   | New approaches  |
 | May  17  | Presentations | |
 
+## Flash talks
+
+| Name        | Link           | 
+| ------------- |:-------------:|
+| Alfredo Sanchez   | [Script](Flash_Talks/Alfredo_Sanchez.pdf) |  
+| Manna Toth   |  |  
+
 ### Acknowledgements
 
 For some code in the code practice scripts, I made use of materials by Jos Elkink [here](http://www.joselkink.net/files/POL30430_Spring_2017_lab11.html), and [here](http://www.joselkink.net/files/POL30430_Spring_2017_lab12.html), and Wouter van Atteveldt [here](http://vanatteveldt.com/ccs_lda/) and [here](http://vanatteveldt.com/learningr/). The setup of the code practice scripts follows the structure in Welbers, K., Van Atteveldt, W., & Benoit, K. (2017) (see below for citation). For some slides in week 1 of the course I made use of materials by Pablo Barberá and Ken Benoit [here](https://lse-my459.github.io/). Thanks to all.
