@@ -8,34 +8,41 @@ You can find the syllabus [here](Syllabus_CEU.pdf). For any questions, send me a
 
 ## Assignments
 
-| Date        | Link           |   |
+| Date        | Link           | Answers  |
 | ------------- |:-------------:|  -------------:|
-| May  10, 19:00h   | [Assignment 1](Assignments/Assignment_1.zip) |
-| May  15, 13:00h   | [Assignment 2]() | |
+| May  10, 19:00h   | [Assignment 1](Assignments/Assignment_1.zip) | [Solutions](Solutions/Assignment_1_Answer.pdf) |
+| May  20, 19:00h   | [Assignment 2](Assignments/Assignment_2.zip) | |
 
 ## Slides
 | Date        | Slides           |  Date        | Slides           |
 | ------------- |:-------------:| ------------- |:-------------:|
-| May  6   | [Link](Slides/Slides_May_6.pdf) | May  13   | [Link]() |
-| May  7   | [Link](Slides/Slides_May_7.pdf) | May  14   | [Link]()|
-| May  8   | [Link](Slides/Slides_May_8.pdf) | May  15   | [Link]()|
-| May  9   | [Link]()  | May  16   | [Link]()|
-| May  10   | [Link]() | May  17   |  Presentations |
+| May  6   | [Link](Slides/Slides_May_6.pdf) | May  13   | [Link](Slides/Slides_May_13.pdf)|
+| May  7   | [Link](Slides/Slides_May_7.pdf) | May  14   | [Link](Slides/Slides_May_14.pdf)|
+| May  8   | [Link](Slides/Slides_May_8.pdf) | May  15   | [Link](Slides/Slides_May_15.pdf)|
+| May  9   | [Link](Slides/Slides_May_9.pdf)  | May  16   | [Link](Slides/Slides_May_16.pdf)|
+| May  10   | [Link](Slides/Slides_May_10.pdf)| May  17   |  Presentations |
 
 
 ## Code practice
-| Date        | Link           |
+| Date        | Link           | Solutions           |    
+| ------------- |:-------------:|:-------------:|
+| May  6   | Introduction |  |
+| May  7   | [Script](Code_Practice/String_Operations.pdf) | [Exercise solution](Solutions/String_Operations_Answer.pdf) |
+| May  8   | [Script](Code_Practice/Data_to_DFM.pdf), [Data](Data/speeches_uk.csv.zip) |  [Exercise solution](Solutions/Data_to_DFM_Answer.pdf) |
+| May  9   | [Script](Code_Practice/Describing_Text.pdf), [Data](Data/speeches_uk.csv.zip)|  |
+| May  10   | [Script](Code_Practice/Dictionaries_and_Supervised_ML.pdf), [Data](Data/speeches_uk.csv.zip)|  |
+| May  13   | [Script](Code_Practice/Scaling.pdf), [Data](Data/speeches_ep.csv.zip)|  |
+| May  14   | [Script](Code_Practice/Topic_Models.pdf), [Data](Data/speeches_ep.csv.zip)|  |
+| May  15   |  New data  |
+| May  16   | New approaches  |
+| May  17  | Presentations | |
+
+## Flash talks
+
+| Name        | Link           | 
 | ------------- |:-------------:|
-| May  6   | Introduction |
-| May  7   | [Script](Code_Practice/String_Operations.pdf) |
-| May  8   | [Script](Code_Practice/Data_to_DFM.pdf), [Data](Data/speeches_uk.csv.zip)| 
-| May  9   | [Script](), [Data]()|
-| May  10   | [Script](), [Data]()|
-| May  13   | [Script](), [Data]()|
-| May  14   | [Script](), [Data]()|
-| May  15   |  Applications |
-| May  16   | Conclusion |
-| May  17  | Presentations |
+| Alfredo Sanchez   | [Link](Flash_Talks/Alfredo_Sanchez.pdf) |  
+| Manna Toth   |  [Link](Flash_Talks/Manna_Toth.pdf) |  
 
 ### Acknowledgements
 
